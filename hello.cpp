@@ -1,6 +1,7 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
-// Section: YOUR SECTION
+// Name: Cristian Sifuentes 
+// Section: 2026MFA-MCSCI-271-1290
+
 
 #include <iostream>
 using namespace std;
